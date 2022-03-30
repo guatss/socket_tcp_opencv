@@ -1,0 +1,5 @@
+/home/staug/project/demo_socket_opencv/server/build/CMakeFiles/rebuild_cache.dir
+/home/staug/project/demo_socket_opencv/server/build/CMakeFiles/edit_cache.dir
+/home/staug/project/demo_socket_opencv/server/build/CMakeFiles/helloOpenCV.dir
+/home/staug/project/demo_socket_opencv/server/build/CMakeFiles/package_source.dir
+/home/staug/project/demo_socket_opencv/server/build/CMakeFiles/package.dir

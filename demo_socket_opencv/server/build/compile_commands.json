@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/staug/project/demo_socket_opencv/server/build",
+  "command": "/usr/bin/g++   -I/home/staug/project/demo_socket_opencv/server/include -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/helloOpenCV.dir/src/server.cpp.o -c /home/staug/project/demo_socket_opencv/server/src/server.cpp",
+  "file": "/home/staug/project/demo_socket_opencv/server/src/server.cpp"
+}
+]
